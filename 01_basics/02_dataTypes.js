@@ -11,10 +11,20 @@ console.log("Pavan")
 
 let name = "Pavan"
 let age = 18
-let osLoggedIn = false
+let isLoggedIn = false
+
 
 // number => 2 to power 53
-// bigint
+// bigint = when number is big 
 //string => "" 
 //boolean => true/false
-//null 
+//null standlone value 
+// undefined => 
+// symbol = unique 
+
+
+// Object 
+
+console.log(typeof undefined); //undefined
+console.log(typeof null); //null
+
